@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067551372434",
+    "project_id": "dsnanhospital",
+    "storage_bucket": "dsnanhospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067551372434:android:820e5bd7af89fdb1f3224b",
+        "android_client_info": {
+          "package_name": "com.example.d_scan_hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ekjfepDXNEhj92ZfNF_FfUNUc1Ai_1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
